@@ -1,2 +1,2 @@
 Ajuste Linha 1
-\n Linha 2
+Ajuste Linha 2
