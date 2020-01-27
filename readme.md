@@ -1,2 +1,2 @@
-Ajuste Linha 1
-Ajuste Linha 2
+Ajuste na Linha 1
+Ajuste na Linha 2
